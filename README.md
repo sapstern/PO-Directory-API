@@ -5,7 +5,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">
-    <img alt="License: Apache 2.0" src="https://img.shields.io/github/license/sapstern/PO-Directory-API" />
+    <img alt="License: Apache 2.0" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" />
   </a>
 </p>
 
