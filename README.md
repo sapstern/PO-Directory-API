@@ -6,9 +6,13 @@
   </a>
 </p>
 
-> Automation Tool For Modification Of SAP PI/PO Directory Objects
+> Java Tool For Modification Of SAP PI/PO Directory Objects
 
 ### 🏠 [Homepage](https://github.com/sapstern/PO-Directory-API)
+
+## About
+
+The program can be used to Change/Copy/Delete SAP Netweaver PI/PO Integration Directory objects.
 
 ## Usage
 
